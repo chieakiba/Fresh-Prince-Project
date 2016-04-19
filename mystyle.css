@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+	font-size: 4em;
+}
+html {
+	/*font-size: 5px;*/
+}
+
+
+body {
+	background-color: gray;
+	/*font-size: 5px;*/
+}
+
+p {
+	text-align: center;
+	font-size: 1.5em;
+}
+
